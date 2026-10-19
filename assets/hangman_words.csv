@@ -1,0 +1,340 @@
+elephant,Animals,A large mammal with a trunk and big ears
+giraffe,Animals,A tall mammal with a very long neck
+kangaroo,Animals,An Australian mammal that hops
+penguin,Animals,A flightless bird that lives in cold climates
+alligator,Animals,A large reptile with sharp teeth found in swamps
+hippopotamus,Animals,"A large, mostly aquatic African mammal"
+chimpanzee,Animals,A highly intelligent primate close to humans
+leopard,Animals,A large wild cat with a spotted coat
+flamingo,Animals,A tall pink wading bird
+platypus,Animals,An egg-laying mammal with a duck-like bill
+squirrel,Animals,A small rodent with a bushy tail that climbs trees
+dolphin,Animals,An intelligent marine mammal known for playful behavior
+hamster,Animals,A small rodent often kept as a household pet
+octopus,Animals,A sea creature with eight flexible arms
+cheetah,Animals,The fastest land mammal with a spotted coat
+gorilla,Animals,"The largest living primate, native to African forests"
+ostrich,Animals,A large flightless bird that runs very fast
+hedgehog,Animals,A small mammal covered in sharp spines
+mosquito,Animals,A small flying insect that bites and drinks blood
+crocodile,Animals,A large predatory reptile found in tropical rivers
+peacock,Animals,"A large bird known for its beautiful, colorful tail feathers"
+badger,Animals,A burrowing mammal with black and white striped face
+buffalo,Animals,A large wild ox with large horns
+camel,Animals,A desert animal with one or two humps on its back
+donkey,Animals,A domesticated animal like a small horse with long ears
+eagle,Animals,A large bird of prey with sharp eyesight
+falcon,Animals,A fast bird of prey used in hunting sport
+koala,Animals,An Australian tree-dwelling mammal that eats eucalyptus
+lizard,Animals,"A small, scaly reptile with a long tail"
+lobster,Animals,A sea creature with a hard shell and large claws
+monkey,Animals,A clever primate with a long tail that lives in trees
+owl,Animals,A nocturnal bird of prey known for its wisdom
+panther,Animals,A large black wild cat
+rabbit,Animals,A small mammal with long ears that loves carrots
+rhinocerous,Animals,A huge mammal with one or two horns on its snout
+shark,Animals,A large predatory fish with sharp teeth
+tiger,Animals,A large wild cat with orange and black stripes
+turtle,Animals,A slow reptile with a protective shell on its back
+walrus,Animals,A large marine mammal with long tusks
+zebra,Animals,A wild horse-like animal with black and white stripes
+australia,Countries,A country and continent in the Southern Hemisphere
+brazil,Countries,The largest country in South America
+canada,Countries,A large country north of the United States
+germany,Countries,A European country known for its engineering
+japan,Countries,An island nation in East Asia
+madagascar,Countries,A large island nation off the coast of East Africa
+singapore,Countries,A wealthy island city-state in Southeast Asia
+switzerland,Countries,A mountainous European country famous for chocolate
+thailand,Countries,A Southeast Asian country known for tropical beaches
+argentina,Countries,A large South American country famous for tango
+egypt,Countries,An African nation famous for pyramids and the Nile
+france,Countries,A western European country famous for the Eiffel Tower
+india,Countries,A large South Asian country known for the Taj Mahal
+italy,Countries,A European country shaped like a boot
+mexico,Countries,A North American country south of the United States
+norway,Countries,A Scandinavian country famous for its fjords
+peru,Countries,A South American country home to Machu Picchu
+russia,Countries,The largest country in the world by land area
+spain,Countries,A European country famous for bullfighting and flamenco
+turkey,Countries,A country that bridges Europe and Asia
+china,Countries,The world's most populous Asian nation with a great wall
+greece,Countries,A European country famous for ancient history and islands
+ireland,Countries,An island nation known as the Emerald Isle
+sweden,Countries,A Nordic country known for IKEA and ABBA
+belgium,Countries,A European country famous for waffles and chocolate
+colombia,Countries,A South American country known for coffee production
+denmark,Countries,A Scandinavian country where Lego was invented
+finland,Countries,A northern European country known as the happiest place
+holland,Countries,"Another name for the Netherlands, known for tulips"
+iceland,Countries,An island country known for fire and ice volcanoes
+jamaica,Countries,A Caribbean island nation famous for reggae music
+kenya,Countries,An East African country famous for wildlife safaris
+malaysia,Countries,A Southeast Asian country with the Petronas Towers
+morocco,Countries,A North African country famous for Marrakech markets
+portugal,Countries,A southern European country next to Spain
+scotland,Countries,A UK country famous for kilts and lochs
+vietnam,Countries,A Southeast Asian country known for its beaches and rivers
+austria,Countries,A mountainous central European country where Mozart was born
+chile,Countries,"A long, narrow country along the west coast of South America"
+cuba,Countries,A large Caribbean island nation famous for cigars
+library,Places,A building where books are kept for reading or borrowing
+hospital,Places,An institution providing medical treatment for the sick
+museum,Places,A building where historical or artistic objects are displayed
+airport,Places,A place where airplanes take off and land
+bakery,Places,A place where bread and cakes are made and sold
+pharmacy,Places,A shop where medicines are prepared and sold
+restaurant,Places,A place where people pay to sit and eat meals
+stadium,Places,A sports arena with tiers of seats for spectators
+supermarket,Places,A large self-service grocery store
+theatre,Places,A building where plays or movies are presented
+aquarium,Places,A building containing tanks of live fish and sea animals
+bank,Places,A financial institution where money is kept and handled
+church,Places,A building used for public Christian worship
+cinema,Places,A movie theater
+factory,Places,A building where goods are manufactured by machines
+garage,Places,A building or shed for housing a motor vehicle
+garden,Places,A piece of ground next to a house for growing plants
+hotel,Places,An establishment providing accommodation and meals for travelers
+kitchen,Places,A room where food is cooked and prepared
+market,Places,A regular gathering of people for buying and selling food or goods
+office,Places,A room or building used for business or clerical work
+park,Places,A large public green area in a town used for recreation
+playground,Places,An outdoor area provided for children to play on
+prison,Places,A building where criminals are kept as a punishment
+school,Places,An institution for educating children
+station,Places,A stopping place on a railway line or bus route
+temple,Places,A building devoted to religious worship
+university,Places,An institution of high-level learning and research
+valley,Places,A low area of land between hills or mountains
+village,Places,A small group of houses in a rural area
+zoo,Places,A park where wild animals are kept for public exhibition
+castle,Places,A large fortified building typical of the medieval period
+cemetery,Places,A burial ground or graveyard
+harbor,Places,A sheltered port where ships can anchor safely
+island,Places,A piece of land entirely surrounded by water
+chocolate,Foods,"A sweet, usually brown food made from cacao seeds"
+spaghetti,Foods,"Long, thin, solid strings of pasta"
+hamburger,Foods,A round patty of ground beef served in a bun
+pineapple,Foods,A large juicy tropical fruit with a spiky skin
+sandwich,Foods,Two or more slices of bread with a filling
+croissant,Foods,"A flaky, buttery French pastry shaped like a crescent"
+avocado,Foods,A pear-shaped fruit with a rough green skin and oily flesh
+cheesecake,Foods,A dessert with a thick layer of soft cheese and a crust
+pancake,Foods,"A thin, flat cake of batter, fried on both sides"
+watermelon,Foods,A large melon with a hard green rind and sweet red pulp
+apple,Foods,"A round fruit with red, green, or yellow skin and crisp white flesh"
+banana,Foods,A long curved yellow fruit with soft sweet flesh
+biscuit,Foods,"A small, flat, crisp sweet cake or cracker"
+bread,Foods,"A basic food made of flour, water, and yeast mixed and baked"
+butter,Foods,A pale yellow fatty substance made by churning cream
+cabbage,Foods,A leafy green or purple vegetable shaped like a round head
+carrot,Foods,A tapering orange root vegetable
+cheese,Foods,A food made from the pressed curds of milk
+chicken,Foods,A common domestic fowl used for its meat and eggs
+coconut,Foods,A large oval brown nut with a hard shell and edible white flesh
+coffee,Foods,A hot drink made from the roasted and ground seeds of a tropical shrub
+cucumber,Foods,A long green skin vegetable with watery flesh used in salads
+garlic,Foods,A strong-smelling pungent bulb used in cooking
+honey,Foods,"A sweet, sticky yellowish fluid made by bees"
+lemon,Foods,A yellow oval citrus fruit with thick skin and fragrant sour juice
+mushroom,Foods,A fungal growth typically shaped like a dome-topped cap on a stem
+onion,Foods,A round vegetable with many layers and a pungent smell
+orange,Foods,A round juicy citrus fruit with a bright reddish-yellow rind
+pasta,Foods,"A dough made from durum wheat and water, extruded into shapes"
+potato,Foods,A starchy plant tuber that is a very common root vegetable
+rice,Foods,The starchy grains of an Asian grass used as a staple food
+salad,Foods,A cold dish of various mixtures of raw or cooked vegetables
+sausage,Foods,An item of food consisting of minced meat seasoned in a cylindrical casing
+soup,Foods,"A liquid food made by boiling meat, fish, or vegetables"
+strawberry,Foods,A sweet soft red fruit with a seed-studded surface
+sugar,Foods,A sweet crystalline substance obtained from sugarcane or sugar beet
+tomato,Foods,A glossy red pulpy edible fruit eaten raw or cooked as a vegetable
+waffle,Foods,A small crisp batter cake baked in an iron with a grid pattern
+yogurt,Foods,A semi-solid sourish food prepared from milk fermented by bacteria
+waffles,Foods,A patterned grid-like breakfast pastry
+basketball,Outdoor Games,A game played by two teams of five players on a court
+football,Outdoor Games,A sport played with an oval ball or a round ball kicked by foot
+volleyball,Outdoor Games,A game where teams hit a ball back and forth over a high net
+snowboarding,Outdoor Games,The sport of sliding down a snow-covered slope on a board
+skateboarding,Outdoor Games,The sport of riding and performing tricks on a skateboard
+marathon,Outdoor Games,"A long-distance running race, strictly 26.2 miles"
+archery,Outdoor Games,The sport or skill of shooting with a bow and arrow
+baseball,Outdoor Games,A bat-and-ball game played between two opposing teams on a diamond
+cricket,Outdoor Games,"An outdoor game with a bat, ball, and wickets played on a pitch"
+golf,Outdoor Games,A game where players use clubs to hit a small ball into a series of holes
+tennis,Outdoor Games,A racket sport played individually against a single opponent on a court
+rugby,Outdoor Games,A team game played with an oval ball that can be kicked or carried
+cycling,Outdoor Games,The sport or activity of riding a bicycle
+rowing,Outdoor Games,The sport of racing in boats using oars
+sailing,Outdoor Games,The sport or activity of using boats with sails to travel on water
+surfing,Outdoor Games,The sport of riding moving waves while standing on a board
+frisbee,Outdoor Games,A game using a plastic gliding disc tossed between players
+softball,Outdoor Games,A variant of baseball played with a larger ball on a smaller field
+paintball,Outdoor Games,A game where players eliminate opponents by shooting gelatin dye capsules
+handball,Outdoor Games,A game where players use their hands to pass and bounce a ball into a goal
+lacrosse,Outdoor Games,A team sport played using a small rubber ball and a long-handled stick
+badminton,Outdoor Games,A game played with rackets and a shuttlecock over a net
+triathlon,Outdoor Games,"An athletic contest comprising swimming, cycling, and running"
+athletics,Outdoor Games,The sport of competing in track and field events
+climbing,Outdoor Games,The sport of scaling rock faces or artificial walls
+hiking,Outdoor Games,"The activity of going for long walks, especially in the countryside"
+jogging,Outdoor Games,"The activity of running at a steady, gentle pace"
+running,Outdoor Games,The action or movement of a runner running at speed
+skating,Outdoor Games,The sport or pastime of gliding on ice skates or roller skates
+skiing,Outdoor Games,The action of traveling over snow on skis
+swimming,Outdoor Games,The sport or activity of propelling oneself through water
+walking,Outdoor Games,The activity of traveling on foot at a regular pace
+fishing,Outdoor Games,"The activity of catching fish, either for food or as a sport"
+hunting,Outdoor Games,The activity of chasing and killing wild animals for food or sport
+camping,Outdoor Games,The activity of spending a holiday living in a tent
+billiards,Indoor Games,A game played on a cloth-covered table with a cue and balls
+bowling,Indoor Games,A game in which a heavy ball is rolled down a wooden lane to knock down pins
+chess,Indoor Games,A strategic board game for two players using royalty pieces on a grid
+checkers,Indoor Games,A board game for two players who move identical round tokens diagonally
+darts,Indoor Games,A game in which small pointed missiles are thrown at a circular board
+dominoes,Indoor Games,A game played with rectangular tiles marked with dots
+foosball,Indoor Games,A tabletop game based on soccer with figures attached to rotating rods
+gymnastics,Indoor Games,Exercises developing physical agility and coordination performed indoors
+karate,Indoor Games,An oriental system of unarmed combat using hands and feet
+ludo,Indoor Games,A simple dice-rolling board game where players race four tokens
+scrabble,Indoor Games,A word game in which players score points by forming words with tiles
+snooker,Indoor Games,A game played on a billiard table with fifteen red balls and six colored ones
+squash,Indoor Games,A racket sport played by two players in a four-walled court with a small rubber ball
+wrestling,Indoor Games,A sport of hand-to-hand struggle between two contestants on a mat
+monopoly,Indoor Games,A popular real estate board game of buying and trading properties
+charades,Indoor Games,A game in which players guess a word or phrase from pantomimed actions
+poker,Indoor Games,A card game involving betting and individual play where players rank hands
+blackjack,Indoor Games,A card game where players try to get their card sum closest to twenty-one
+solitaire,Indoor Games,A single-player card game usually played by arranging cards in layouts
+jigsaw,Indoor Games,A puzzle consisting of many interlocking plastic or cardboard pieces
+twister,Indoor Games,A game played on a large mat where players place hands and feet on colored dots
+backgammon,Indoor Games,A board game for two players where checkers are moved according to dice rolls
+sudoku,Indoor Games,A logic-based number placement puzzle grid
+mahjong,Indoor Games,A traditional Chinese game played with small rectangular tiles
+origami,Indoor Games,The traditional Japanese art of paper folding
+boxing,Indoor Games,A sport where two combatants fight using padded gloves inside a ring
+fencing,Indoor Games,A sport of sword fighting performed on a narrow strip
+judo,Indoor Games,A modern martial art focused on throwing and grappling opponents
+baking,Indoor Games,An indoor culinary hobby of making baked goods
+crafting,Indoor Games,The hobby or activity of making things by hand creatively
+dancing,Indoor Games,The indoor or performance activity of rhythmic body movements
+gaming,Indoor Games,The activity of playing electronic or video games
+painting,Indoor Games,The artistic hobby of applying paint to a canvas or paper
+reading,Indoor Games,The cognitive hobby of interpreting written words in books
+sewing,Indoor Games,The craft or hobby of joining fabric using needles and thread
+rhythm,Tricky Vowels,"A strong, regular, repeated pattern of movement or sound with no standard vowels"
+lymph,Tricky Vowels,A colorless fluid containing white blood cells that has no standard vowels
+crypt,Tricky Vowels,An underground room or vault used as a chapel or burial place
+gypsy,Tricky Vowels,A member of a traveling people traditionally living by seasonal work
+sphinx,Tricky Vowels,An ancient Egyptian stone figure with a lion body and human head
+dry,Tricky Vowels,Free from moisture or liquid
+fly,Tricky Vowels,Move through the air using wings
+sky,Tricky Vowels,The region of the atmosphere visible from the earth
+try,Tricky Vowels,Make an attempt or effort to do something
+fry,Tricky Vowels,Cook food in hot fat or oil
+spy,Tricky Vowels,A person who secretly collects and reports information on others
+gym,Tricky Vowels,A room or building equipped for physical exercise
+juice,Tricky Vowels,The liquid obtained from fruit or vegetables
+fruit,Tricky Vowels,The sweet and fleshy product of a tree or plant that contains seed
+queue,Tricky Vowels,A line of sequence of people or vehicles waiting their turn
+broad,Tricky Vowels,Having a large distance from side to side; wide
+cocoa,Tricky Vowels,A powder made from roasted cacao seeds used for hot chocolate
+myth,Tricky Vowels,A traditional story concerning early history or explaining natural events
+hymn,Tricky Vowels,A religious song or poem of praise
+shy,Tricky Vowels,Nervous or timid in the company of other people
+sly,Tricky Vowels,Having a cunning or deceitful nature
+why,Tricky Vowels,For what reason or purpose
+wry,Tricky Vowels,"Using dry, especially mocking, humor or an expression of disgust"
+beauty,Tricky Vowels,A combination of qualities that pleases the aesthetic senses
+cruise,Tricky Vowels,A voyage on a ship or boat taken for pleasure or as a holiday
+gauge,Tricky Vowels,An instrument that measures and gives a visual display of an amount
+guide,Tricky Vowels,A person or thing that shows the way to others
+guitar,Tricky Vowels,A stringed musical instrument played with a plectrum or plucking
+leopard,Tricky Vowels,A large wild cat with a spotted coat that hides an O vowel
+pigeon,Tricky Vowels,A stout grey bird common in towns and cities
+poetry,Tricky Vowels,Literary work in which special intensity is given to expression
+sauce,Tricky Vowels,A thick liquid served with food to add moistness and flavor
+vacuum,Tricky Vowels,A space entirely devoid of matter or a machine used for cleaning floors
+tongue,Tricky Vowels,The fleshy muscular organ in the mouth used for tasting and speaking
+source,Tricky Vowels,"A place, person, or thing from which something originates or can be obtained"
+heavy,Abstract Everyday,Of great weight; difficult to lift
+sharp,Abstract Everyday,Having an edge or point that can cut or pierce
+tight,Abstract Everyday,"Fixed, fastened, or closed firmly"
+loose,Abstract Everyday,Not firmly or tightly fixed in place
+smooth,Abstract Everyday,Having an even and regular surface; free from perceptible projections
+rough,Abstract Everyday,Having an uneven or irregular surface; not smooth
+laugh,Abstract Everyday,Make spontaneous sounds and movements of the face expressive of amusement
+shout,Abstract Everyday,Speak or cry out loudly and vociferously
+crawl,Abstract Everyday,Move forward on the hands and knees or close to the ground
+climb,Abstract Everyday,Go up or climb toward the top of a mountain or ladder
+whisper,Abstract Everyday,Speak very softly using one's breath rather than one's vocal cords
+throw,Abstract Everyday,Propel something through the air with a rapid movement of the arm
+autumn,Abstract Everyday,The season after summer and before winter; fall
+minute,Abstract Everyday,A period of time equal to sixty seconds
+breeze,Abstract Everyday,A gentle and light wind
+thunder,Abstract Everyday,A loud rumbling noise heard after a flash of lightning
+freeze,Abstract Everyday,Turn into ice or become totally frozen as a result of extreme cold
+brave,Abstract Everyday,Ready to face and endure danger or pain; showing courage
+clever,Abstract Everyday,"Quick to understand, learn, and devise ideas; intelligent"
+bright,Abstract Everyday,Giving out or reflecting a lot of light; shining
+danger,Abstract Everyday,The possibility of suffering harm or injury
+energy,Abstract Everyday,The strength and vitality required for sustained physical or mental activity
+famous,Abstract Everyday,Known about by many people throughout the public sphere
+gentle,Abstract Everyday,Mild and kind in temperament or behavior
+honest,Abstract Everyday,Free of deceit and untruthful behavior; sincere
+invent,Abstract Everyday,Create or design something that has not existed before
+journey,Abstract Everyday,An act of traveling from one place to another
+memory,Abstract Everyday,The faculty by which the mind stores and remembers information
+nature,Abstract Everyday,"The physical world collective, including plants, animals, and landscapes"
+polite,Abstract Everyday,Having or showing behavior that is respectful and considerate of others
+quiet,Abstract Everyday,Making little or no noise; peaceful
+secret,Abstract Everyday,Something that is kept or meant to be kept unknown or unseen by others
+silent,Abstract Everyday,Not making or accompanied by any sound
+simple,Abstract Everyday,Easily understood or done; presenting no difficulty
+strange,Abstract Everyday,Unusual or surprising in a way that is unsettling or hard to understand
+sudden,Abstract Everyday,Occurring or done quickly and unexpectedly
+talent,Abstract Everyday,Natural aptitude or high skill in a specific activity
+unique,Abstract Everyday,Being the only one of its kind; unlike anything else
+wisdom,Abstract Everyday,"The quality of having experience, knowledge, and good judgment"
+wonder,Abstract Everyday,"A feeling of surprise mingled with admiration, caused by something beautiful"
+curtain,Household Items,A piece of material suspended to screen a window or area
+mirror,Household Items,A surface object that reflects a clear image
+blanket,Household Items,A large piece of woolen or warm fabric used as a bed covering
+drawer,Household Items,"A box-like storage compartment without a lid, sliding horizontally"
+pillow,Household Items,A rectangular cloth bag filled with soft material used to cushion the head
+faucet,Household Items,A device or tap that controls the flow of liquid from a pipe
+carpet,Household Items,A floor covering made of thick woven fabric
+chair,Household Items,"A separate seat for one person, typically with four legs and a back"
+clock,Household Items,An instrument for measuring and showing time
+couch,Household Items,A long upholstered piece of furniture for several people to sit on
+desk,Household Items,A piece of furniture with a flat surface used for writing or working
+fridge,Household Items,A refrigerator used to keep food and drinks cold
+kettle,Household Items,"A container or device with a lid, spout, and handle, used for boiling water"
+lamp,Household Items,"A device for giving light, especially one that uses electricity"
+oven,Household Items,"An enclosed compartment used for heating, baking, or roasting food"
+plate,Household Items,"A flat dish, typically circular, from which food is eaten"
+shelf,Household Items,A flat horizontal board fixed to a wall or in a cupboard to hold things
+spoon,Household Items,An utensil consisting of a small shallow bowl with a handle used for eating liquid
+table,Household Items,"A piece of furniture with a flat top and one or more legs, used for eating or working"
+toaster,Household Items,An electrical appliance for making toast from slices of bread
+towel,Household Items,A piece of thick absorbent cloth or paper used for drying things
+wallet,Household Items,A pocket-sized flat folding case for holding money and cards
+window,Household Items,An opening in a wall or door fitted with glass to admit light and air
+blender,Household Items,"An electric machine used for mixing, puréeing, or emulsifying food"
+broom,Household Items,A long-handled brush used for sweeping floors
+candle,Household Items,A cylinder or block of wax with a central wick that is lit to give light
+cushion,Household Items,A soft bag of cloth stuffed with feathers or foam used to sit or kneel on
+hammer,Household Items,A tool with a heavy metal head mounted at right angles to its handle
+knife,Household Items,"An instrument with a sharp blade fixed in a handle, used for cutting food"
+ladder,Household Items,A structure consisting of a series of bars used for climbing up or down
+mattress,Household Items,A large fabric case filled with soft or firm material used as a bed
+needle,Household Items,A very thin small piece of smooth metal with a sharp point and an eye for thread
+picture,Household Items,"A painting, drawing, or photograph on a wall inside a frame"
+purse,Household Items,A small pouch or bag used for carrying money and personal items
+scissors,Household Items,"An instrument used for cutting cloth, paper, containing two pivoting blades"
+shampoo,Household Items,A liquid preparation used for washing the hair
+soap,Household Items,A substance used with water for washing and cleaning body or hands
+sponge,Household Items,"A piece of porous material used for washing, cleaning, or absorbing liquid"
+suitcase,Household Items,A case with a handle and a lid used for carrying clothes when traveling
+wardrobe,Household Items,"A large, tall cupboard or piece of furniture in which clothes may be hung"
