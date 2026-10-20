@@ -1,16 +1,24 @@
-import words , ui
+import ui
+
+#     __  __                                            
+#    / / / /____ _ ____   ____ _ ____ ___   ____ _ ____ 
+#   / /_/ // __ `// __ \ / __ `// __ `__ \ / __ `// __ \
+#  / __  // /_/ // / / // /_/ // / / / / // /_/ // / / /
+# /_/ /_/ \__,_//_/ /_/ \__, //_/ /_/ /_/ \__,_//_/ /_/ 
+#                      /____/                           
+#            ______                                             
+#           / ____/____ _ ____ ___   ___                        
+#          / / __ / __ `// __ `__ \ / _ \                       
+#         / /_/ // /_/ // / / / / //  __/                       
+#         \____/ \__,_//_/ /_/ /_/ \___|                        
 
 if __name__ == '__main__' :
 
-    words.wcsvread()
     life : int = 6    #[1-6]
-    word : str = words.choose()
-    gletters : str = []
-    hword : str = []
 
     ui.loadingbar()
     while True :
-
-        #breaks when returned False
-        if not ui.main(life) :
-            break
+        if not ui.main(life) :   #hurts when returned false
+            life -= 1
+            if life == 0 :
+                break

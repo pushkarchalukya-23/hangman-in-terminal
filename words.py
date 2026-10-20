@@ -22,5 +22,9 @@ def asciiartshow(life) -> str :
     for i in asciiart[6 - life] :
         print(f"{i}", end="\n")
 
-if __name__ == "__main__" :
+def hworder(word , gletters) -> str :
     ...
+
+if __name__ == "__main__" :
+    acsvread()
+    asciiartshow(6)
